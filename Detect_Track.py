@@ -1,4 +1,5 @@
 '''
+__author__ = "Susant_Achary"
 Face Detector used: Haar Cascades Face MultiDetector
 https://github.com/opencv/opencv/tree/master/data/haarcascades
 
